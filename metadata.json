@@ -1,0 +1,6 @@
+{
+  "name": "Truthlens AI",
+  "description": "An explainable multimodal news intelligence and verification platform using Gemini with Google Search grounding, synthetic deepfake risk analysis, political bias rating, and MBFC source credibility.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
